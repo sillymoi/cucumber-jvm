@@ -492,6 +492,7 @@
                 <module>examples/groovy-calculator</module>
                 <module>examples/scala-calculator</module>
                 <module>examples/java-webbit-websockets-selenium</module>
+                <module>examples/java-helloworld</module>
             </modules>
         </profile>
 
